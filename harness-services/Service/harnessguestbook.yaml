@@ -1,0 +1,17 @@
+kind: Component
+apiVersion: backstage.io/v1alpha1
+metadata:
+  name: harnessguestbook
+  annotations:
+    harness.io/project-url: https://app.harness.io/ng/account/SMeOwB5JRGuS3JbuUzmqbg/home/orgs/default/projects/default_project/details
+    harness.io/cd-serviceId: harnessguestbook
+    harness.io/services: |
+      harnessguestbook: https://app.harness.io/ng/account/SMeOwB5JRGuS3JbuUzmqbg/cd/orgs/default/projects/default_project/services/harnessguestbook
+  title: harnessguestbook
+  tags: []
+spec:
+  type: Service
+  lifecycle: Unknown
+  owner: Unknown
+  domain: default
+  system: default_project
