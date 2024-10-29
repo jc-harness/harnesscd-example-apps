@@ -12,6 +12,6 @@ metadata:
 spec:
   type: Service
   lifecycle: Unknown
-  owner: Unknown
+  owner: john8260
   domain: default
   system: default_project
